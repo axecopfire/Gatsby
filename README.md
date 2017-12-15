@@ -6,3 +6,7 @@
 
 `gatsby serve` — Gatsby starts a local HTML server for testing your built site.
 
+---------------------------------------------
+Tutorial found at:
+https://www.gatsbyjs.org/tutorial/
+--------------------------------------------
